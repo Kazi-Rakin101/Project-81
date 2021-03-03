@@ -1,0 +1,19 @@
+.body_background{
+    background-image: url("https://secureservercdn.net/198.71.233.47/adf.363.myftpupload.com/wp-content/uploads/2017/02/light-blue-background-wallpaper-1.jpg?time=1602684400");
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+   color:dodgerblue; 
+   border-color: rgb(7, 7, 211);
+   border-width: 2px;
+   border-style: solid;
+}
+
+#mycanvas{
+    border-width: 10px;
+    border-color:darkblue;
+    background-color: white;
+    border-style: ridge;
+}
